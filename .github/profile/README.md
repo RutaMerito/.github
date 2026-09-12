@@ -31,9 +31,42 @@ La organización está pensada para crecer con nuevas propuestas educativas, her
 
 ## Proyectos
 
-Estamos construyendo nuevas experiencias para aprender, practicar y avanzar.
-
-Esta sección se actualizará progresivamente con los proyectos públicos que estén listos para ser presentados.
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>RutaMérito Empleo Público</h3>
+			<p>Preparación y herramientas para quienes buscan avanzar en los procesos y oportunidades de empleo público.</p>
+			<p><strong>Estado:</strong> Por definir<br><strong>Enlace:</strong> Próximamente</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3>RutaMérito Saber 11</h3>
+			<p>Preparación, práctica y herramientas de estudio para fortalecer el desempeño en las pruebas Saber 11.</p>
+			<p><strong>Estado:</strong> Por definir<br><strong>Enlace:</strong> Próximamente</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>RutaMérito Saber Pro</h3>
+			<p>Preparación y práctica orientadas al fortalecimiento de competencias para las pruebas Saber Pro.</p>
+			<p><strong>Estado:</strong> Por definir<br><strong>Enlace:</strong> Próximamente</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3>RutaMérito PISA</h3>
+			<p>Herramientas de aprendizaje y práctica enfocadas en las competencias evaluadas en PISA.</p>
+			<p><strong>Estado:</strong> Por definir<br><strong>Enlace:</strong> Próximamente</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>Próximamente</h3>
+			<p>Una nueva experiencia educativa de RutaMérito está en desarrollo.</p>
+			<p><strong>Estado:</strong> En desarrollo<br><strong>Enlace:</strong> Próximamente</p>
+		</td>
+		<td width="50%" valign="top">
+			<p><em>Esta sección se actualizará con logos, imágenes, páginas propias y enlaces a cada aplicación o experiencia cuando estén disponibles.</em></p>
+		</td>
+	</tr>
+</table>
 
 ## Nuestro enfoque
 
