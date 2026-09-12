@@ -29,44 +29,56 @@ RutaMérito desarrolla diferentes caminos y experiencias de aprendizaje para aco
 
 La organización está pensada para crecer con nuevas propuestas educativas, herramientas, contenidos y proyectos, sin limitarse a una única aplicación o área de conocimiento.
 
+## Nuestra historia
+
+RutaMérito es un ecosistema que evoluciona desde diferentes proyectos y experiencias para acompañar procesos de aprendizaje y preparación. Mérito 360 representa el antecedente del actual proyecto **Ruta al Empleo Público**.
+
 ## Proyectos
+
+### Ecosistema educativo
 
 <table>
 	<tr>
 		<td width="50%" valign="top">
-			<h3>RutaMérito Empleo Público</h3>
-			<p>Preparación y herramientas para quienes buscan avanzar en los procesos y oportunidades de empleo público.</p>
-			<p><strong>Estado:</strong> Por definir<br><strong>Enlace:</strong> Próximamente</p>
+			<h3>Ruta al Empleo Público</h3>
+			<p>Evolución de la antigua app Mérito 360, enfocada en la preparación para concursos de empleo público en Colombia.</p>
+			<p><strong>Estado:</strong> Proyecto principal / En desarrollo<br><strong>Enlace:</strong> Próximamente</p>
 		</td>
 		<td width="50%" valign="top">
-			<h3>RutaMérito Saber 11</h3>
-			<p>Preparación, práctica y herramientas de estudio para fortalecer el desempeño en las pruebas Saber 11.</p>
-			<p><strong>Estado:</strong> Por definir<br><strong>Enlace:</strong> Próximamente</p>
-		</td>
-	</tr>
-	<tr>
-		<td width="50%" valign="top">
-			<h3>RutaMérito Saber Pro</h3>
-			<p>Preparación y práctica orientadas al fortalecimiento de competencias para las pruebas Saber Pro.</p>
-			<p><strong>Estado:</strong> Por definir<br><strong>Enlace:</strong> Próximamente</p>
-		</td>
-		<td width="50%" valign="top">
-			<h3>RutaMérito PISA</h3>
-			<p>Herramientas de aprendizaje y práctica enfocadas en las competencias evaluadas en PISA.</p>
-			<p><strong>Estado:</strong> Por definir<br><strong>Enlace:</strong> Próximamente</p>
+			<h3>Ruta al Saber 11</h3>
+			<p>Aplicación independiente orientada a la preparación y práctica para las pruebas Saber 11.</p>
+			<p><strong>Estado:</strong> Proyecto / En desarrollo<br><strong>Enlace:</strong> Próximamente</p>
 		</td>
 	</tr>
 	<tr>
 		<td width="50%" valign="top">
-			<h3>Próximamente</h3>
-			<p>Una nueva experiencia educativa de RutaMérito está en desarrollo.</p>
-			<p><strong>Estado:</strong> En desarrollo<br><strong>Enlace:</strong> Próximamente</p>
+			<h3>Ruta al Saber Pro</h3>
+			<p>Proyecto orientado a desarrollar una experiencia de preparación y práctica para las pruebas Saber Pro.</p>
+			<p><strong>Estado:</strong> Proyecto futuro<br><strong>Enlace:</strong> Próximamente</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3>Ruta a PISA</h3>
+			<p>Proyecto orientado a desarrollar herramientas de preparación y aprendizaje relacionadas con las evaluaciones PISA.</p>
+			<p><strong>Estado:</strong> Proyecto futuro<br><strong>Enlace:</strong> Próximamente</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>Ruta a Evaluar para Avanzar / Pruebas Saber</h3>
+			<p>Proyecto orientado a otras evaluaciones educativas y experiencias de preparación para pruebas Saber.</p>
+			<p><strong>Estado:</strong> Proyecto futuro<br><strong>Enlace:</strong> Próximamente</p>
 		</td>
 		<td width="50%" valign="top">
 			<p><em>Esta sección se actualizará con logos, imágenes, páginas propias y enlaces a cada aplicación o experiencia cuando estén disponibles.</em></p>
 		</td>
 	</tr>
 </table>
+
+### Otros proyectos tecnológicos
+
+**Mérito Crypto Node** es un proyecto tecnológico independiente, separado del núcleo educativo de RutaMérito. Está orientado a explorar oportunidades legítimas relacionadas con computación y tecnología aplicada al ecosistema cripto, inicialmente para PC.
+
+**Estado:** Proyecto independiente · **Enlace:** Próximamente
 
 ## Nuestro enfoque
 
@@ -93,9 +105,11 @@ Los enlaces se incorporarán a medida que cada recurso esté disponible pública
 
 ## Propiedad intelectual
 
-RutaMérito, Ruta al Mérito, su identidad visual, logotipos, contenidos originales, diseños, software y demás elementos distintivos se encuentran sujetos a los derechos que correspondan conforme a la legislación aplicable.
+Los nombres, denominaciones, combinaciones distintivas, elementos gráficos, contenidos y demás elementos identificativos asociados a los proyectos de RutaMérito se encuentran reservados en los términos que resulten aplicables. Su publicación en este sitio no constituye autorización para su apropiación, reproducción o utilización por terceros.
 
-La publicación de código, documentación o materiales en GitHub no constituye por sí misma autorización para utilizar las marcas, logotipos, identidad visual o elementos distintivos de RutaMérito de una manera que pueda generar confusión sobre origen, autorización, afiliación, patrocinio o representación.
+Esto comprende, según corresponda, RutaMérito, Ruta al Mérito, Ruta al Empleo Público, Ruta al Saber 11, Ruta al Saber Pro, Ruta a PISA, Ruta a Evaluar para Avanzar / Pruebas Saber, Mérito Crypto Node, ¡¡¡Tu camino al éxito!!!, sus logotipos, identidad visual, diseños, interfaces, contenidos, software, código, documentación y materiales originales.
+
+La publicación de estos nombres en la web o GitHub no constituye una autorización para que terceros los utilicen, reproduzcan, registren, exploten comercialmente o presenten como propios cuando ello vulnere los derechos aplicables o genere confusión sobre su origen, afiliación, autorización, patrocinio o representación.
 
 ## Contacto
 
